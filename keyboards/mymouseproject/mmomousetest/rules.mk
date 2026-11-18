@@ -1,1 +1,4 @@
 MOUSEKEY_ENABLE = yes
+CUSTOM_MATRIX = lite
+I2C_DRIVER_REQUIRED = yes
+SRC += matrix.c
