@@ -1,5 +1,7 @@
 // Define the SPI pins for the PixArt Sensor
-// #define PMW33XX_CS_PIN B6
+#define PMW33XX_CS_PIN B6
+// Define default CPI for the PixArt Sensor
+// #define PMW33XX_CPI 1600
 
 // Define the rotary encoder pins
 // #define ENCODERS_PAD_A { D0 }
